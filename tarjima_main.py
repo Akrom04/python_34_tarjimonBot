@@ -5,7 +5,7 @@ from translate import tarjima
 
 
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token="6124176529:AAGk0oSpRuthBndQVuMHeSeWY5IR6w_o8hg")
+bot = Bot(token="token yozasan")
 dp = Dispatcher(bot)
 
 
